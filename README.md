@@ -16,5 +16,8 @@
 - OpenAI API Doc : https://platform.openai.com/docs
 - OpenAI 가격 : https://openai.com/api/pricing/
 
+<br>
+
+# 포스터
 
 ![포스터](poster.png)
