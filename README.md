@@ -12,6 +12,7 @@
 
 # 참고 자료
 
+- OpenAI Cookbook : https://cookbook.openai.com/
 - OpenAI API Doc : https://platform.openai.com/docs
 - OpenAI 가격 : https://openai.com/api/pricing/
 
